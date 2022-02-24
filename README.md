@@ -18,3 +18,4 @@ This website contains the reading notes from the beginning of the course till th
 |:----------|:-----------:|----------------------:|
 | Read01    | Java Basics | [Link](401-read01.md) |
 | Sql       | Sql Basics  |        [Link](Sql.md) |
+| Terminal  | Terminal Basics  |    [Link](Terminl.md) |
