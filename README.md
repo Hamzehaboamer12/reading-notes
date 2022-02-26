@@ -14,8 +14,9 @@ This website contains the reading notes from the beginning of the course till th
  
 ### 401 Table of contents
 
-| The Code	 |  The code   |              The Link |
-|:----------|:-----------:|----------------------:|
-| Read01    | Java Basics | [Link](401-read01.md) |
-| Sql       | Sql Basics  |        [Link](Sql.md) |
-| Terminal  | Terminal Basics  |    [Link](Terminl.md) |
+| The Code	 |    The code     |                              The Link |
+|:----------|:---------------:|--------------------------------------:|
+| Read01    |   Java Basics   | [Link](401-read01.md) |
+| Sql       |   Sql Basics    | [Link](Sql.md) |
+| Terminal  | Terminal Basics | [Link](Terminl.md) |
+| Read02    |   Read02-java   | [ Arrays, Loops, Imports ](Read02.md) |
