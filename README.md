@@ -21,3 +21,4 @@ This website contains the reading notes from the beginning of the course till th
 | Terminal  | Terminal Basics |                         [Link](Terminl.md) |
 | Read02    |   Read02-java   |      [ Arrays, Loops, Imports ](Read02.md) |
 | Read03    |   Read03-java   | [  Maps, primitives, File I/O ](Read03.md) |
+| Read04    |   Read04-Oop    |               [  Oop - Part 1 ](Read04.md) |
