@@ -14,12 +14,13 @@ This website contains the reading notes from the beginning of the course till th
  
 ### 401 Table of contents
 
-| The Code	 |     The code     |                                   The Link |
-|:----------|:----------------:|-------------------------------------------:|
-| Read01    |   Java Basics    |                      [Link](401-read01.md) |
-| Sql       |    Sql Basics    |                             [Link](Sql.md) |
-| Terminal  | Terminal Basics  |                         [Link](Terminl.md) |
-| Read02    |   Read02-java    |      [ Arrays, Loops, Imports ](Read02.md) |
-| Read03    |   Read03-java    | [  Maps, primitives, File I/O ](Read03.md) |
-| Read04    |    Read04-Oop    |               [  Oop - Part 1 ](Read04.md) |
-| Read05    | Read04-Link List |                  [  Link List ](Read05.md) |
+| The Code	 |     The code     |                                    The Link |
+|:----------|:----------------:|--------------------------------------------:|
+| Read01    |   Java Basics    |                       [Link](401-read01.md) |
+| Sql       |    Sql Basics    |                              [Link](Sql.md) |
+| Terminal  | Terminal Basics  |                          [Link](Terminl.md) |
+| Read02    |   Read02-java    |       [ Arrays, Loops, Imports ](Read02.md) |
+| Read03    |   Read03-java    |  [  Maps, primitives, File I/O ](Read03.md) |
+| Read04    |    Read04-Oop    |                [  Oop - Part 1 ](Read04.md) |
+| Read05    | Read05-Link List |                   [  Link List ](Read05.md) |
+| Read06    | Read06-Link List | [  Inheritance and Interfaces  ](Read06.md) |
