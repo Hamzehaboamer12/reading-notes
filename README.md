@@ -26,3 +26,4 @@ This website contains the reading notes from the beginning of the course till th
 | Read06    | Read06-Link List  | [  Inheritance and Interfaces  ](Read06.md) |
 | Read08    | Read08- Oo Design |                  [  OO Design  ](Read08.md) |
 | Read09    | Read08- Oo Design |       [  HTTP Request in Java  ](Read09.md) |
+| Read10    | Read10- Stacks and Queues |            [ Stacks and Queues ](Read10.md) |
