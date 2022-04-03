@@ -30,3 +30,5 @@ This website contains the reading notes from the beginning of the course till th
 | Read11    |              Read10- spring mvc               |                            [ spring mvc ](Read11.md) |
 | Read12    | Read11- Spring RESTful Routing & Static Files | [ Spring RESTful Routing & Static Files ](Read12.md) |
 | Read16    |         Read16- Spring Authentication         |                  [ Spring Authentication](Read16.md) |
+| Read17    |         Read16- Spring Authorization        |                   [ Spring Authorization](Read17.md) |
+
